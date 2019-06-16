@@ -4,7 +4,7 @@
 # Installing
 在終端機輸入下列指令：
 
-`$git clone git@github.com:leeyichien/  trashtalk_generator.git`
+`$git clone git@github.com:leeyichien/ trashtalk_generator.git`
 
 `$cd trashtalk_generator`
 
